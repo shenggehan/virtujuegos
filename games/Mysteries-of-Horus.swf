@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<title>Test</title>
+</head>
+<body style="background-color:transparent;" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+<script language="JavaScript">
+<!--
+
+function close_w(){
+	close();
+}
+
+function dload(){
+
+}
+
+//-->
+</script>
+
+<!--url's used in the movie-->
+<!--text used in the movie-->
+<!--
+Loading
+Error
+-->
+
+<embed name="game" src="game_eng.swf?link=http://www.yoursite.com" quality="high" bgcolor="#ffffff" width="800" height="600" id="loader" name="loader" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+
+</body>
+</html>
+
+

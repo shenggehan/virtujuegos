@@ -1,0 +1,623 @@
+<!DOCTYPE HTML>
+<html lang="en-EN" dir="ltr">
+
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spilgames &#8211; Publishers </title>
+<link rel="shortcut icon" href="" />
+<link rel="apple-touch-icon-precomposed" href="/wp-content/themes/yoo_nano2_wp/apple_touch_icon.png" /> 
+<link rel="alternate" type="application/rss+xml" title="Spilgames - Publishers &raquo; HTML5 Tag Feed" href="http://publishers.spilgames.com/tag/html5/feed/" />
+<link rel='stylesheet' id='spil-ad-css'  href='http://publishers.spilgames.com/wp-content/plugins/spil-ad/css/style.css?ver=20130820' type='text/css' media='all' />
+<script type='text/javascript' src='http://publishers.spilgames.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://publishers.spilgames.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://publishers.spilgames.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.2" />
+<link rel="stylesheet" href="/wp-content/plugins/widgetkit/css/widgetkit.css" />
+<link rel="stylesheet" href="/wp-content/plugins/widgetkit/widgets/lightbox/css/lightbox.css" />
+<link rel="stylesheet" href="/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/mediaelementplayer.css" />
+<link rel="stylesheet" href="/wp-content/plugins/widgetkit/widgets/slideshow/styles/default/style.css" />
+<link rel="stylesheet" href="/wp-content/plugins/widgetkit/widgets/spotlight/css/spotlight.css" />
+<link rel="stylesheet" href="/wp-content/plugins/widgetkit/widgets/twitter/styles/style.css" />
+<script>window["WIDGETKIT_URL"]="/wp-content/plugins/widgetkit";</script>
+<script>function wk_ajax_render_url(widgetid){ return "http://publishers.spilgames.com/wp-admin/admin-ajax.php?action=widgetkit_render&id="+widgetid}</script>
+<script src="/wp-content/plugins/widgetkit/js/jquery.plugins.js"></script>
+<script>$widgetkit.load('/wp-content/plugins/widgetkit/widgets/lightbox/js/lightbox.js').done(function(){ 
+					jQuery(function($){
+						$('a[data-lightbox]').lightbox({"titlePosition":"float","transitionIn":"fade","transitionOut":"fade","overlayShow":1,"overlayColor":"#777","overlayOpacity":0.7});
+					});
+			});</script>
+<script>if (!window['mejs']) { $widgetkit.load('/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/mediaelement-and-player.js').done(function() { jQuery(function($){
+				mejs.MediaElementDefaults.pluginPath='/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/'; 
+				$('video,audio').each(function(){
+					var ele = $(this);
+					if (!ele.parent().hasClass('mejs-mediaelement')) {
+						ele.data('mediaelement',new mejs.MediaElementPlayer(this, {"pluginPath":"\/wp-content\/plugins\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
+
+						var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
+
+						$.onMediaQuery('(max-width: 767px)', {
+							valid: function(){
+								ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+							},
+							invalid: function(){
+								var parent_width = ele.parent().width();
+
+								if (w>parent_width) {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize('100%', '100%');
+								} else {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize(w, h);
+								}
+							}
+						});
+
+						if ($(window).width() <= 767) {
+							ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+						}
+					}
+				});
+			}); });} else { jQuery(function($){
+				mejs.MediaElementDefaults.pluginPath='/wp-content/plugins/widgetkit/widgets/mediaplayer/mediaelement/'; 
+				$('video,audio').each(function(){
+					var ele = $(this);
+					if (!ele.parent().hasClass('mejs-mediaelement')) {
+						ele.data('mediaelement',new mejs.MediaElementPlayer(this, {"pluginPath":"\/wp-content\/plugins\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
+
+						var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
+
+						$.onMediaQuery('(max-width: 767px)', {
+							valid: function(){
+								ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+							},
+							invalid: function(){
+								var parent_width = ele.parent().width();
+
+								if (w>parent_width) {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize('100%', '100%');
+								} else {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize(w, h);
+								}
+							}
+						});
+
+						if ($(window).width() <= 767) {
+							ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+						}
+					}
+				});
+			});; }</script>
+<script src="/wp-content/plugins/widgetkit/widgets/slideshow/js/lazyloader.js"></script>
+<script>$widgetkit.load('/wp-content/plugins/widgetkit/widgets/spotlight/js/spotlight.js').done(function(){jQuery(function($){ $('[data-spotlight]').spotlight({"duration":300}); });});</script>
+<script src="/wp-content/plugins/widgetkit/widgets/twitter/twitter.js"></script>
+<script>$widgetkit.trans.addDic({"LESS_THAN_A_MINUTE_AGO":"LESS_THAN_A_MINUTE_AGO","ABOUT_A_MINUTE_AGO":"ABOUT_A_MINUTE_AGO","X_MINUTES_AGO":"X_MINUTES_AGO","ABOUT_AN_HOUR_AGO":"ABOUT_AN_HOUR_AGO","X_HOURS_AGO":"X_HOURS_AGO","ONE_DAY_AGO":"ONE_DAY_AGO","X_DAYS_AGO":"X_DAYS_AGO"});</script>
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/base.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/layout.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/menus.css" />
+<style>.wrapper { max-width: 980px; }
+#sidebar-b { width: 25%; }
+#maininner { width: 75%; }
+#maininner { float: right; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/modules.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/tools.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/system.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/extensions.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/color1/turquoise.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/color2/salmon.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/font1/kreon.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/font2/kreon.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/font3/kreon.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/style.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/responsive.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/css/print.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/fonts/kreon.css" />
+<link rel="stylesheet" href="/wp-content/themes/yoo_nano2_wp/styles/wide/css/custom.css" />
+<script src="/wp-content/themes/yoo_nano2_wp/warp/js/warp.js"></script>
+<script src="/wp-content/themes/yoo_nano2_wp/warp/js/responsive.js"></script>
+<script src="/wp-content/themes/yoo_nano2_wp/warp/js/accordionmenu.js"></script>
+<script src="/wp-content/themes/yoo_nano2_wp/warp/js/dropdownmenu.js"></script>
+<script src="/wp-content/themes/yoo_nano2_wp/js/template.js"></script>
+</head>
+
+<body id="page" class="page sidebar-b-left sidebars-1  isblog wp-front_page wp-page wp-page-5464" data-config='{"twitter":0,"plusone":0,"facebook":0}'>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38783263-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		
+		<div id="block-toolbar"><div class="wrapper">
+
+		<div id="toolbar" class="clearfix">
+
+						<div class="float-left">
+			
+							
+				<div class="module   deepest">
+
+			<a href="/">
+<img src="/wp-content/spilImages/logo-spil-white.jpg">
+</a>		
+</div>				
+			</div>
+							
+			
+								<div id="search"><form id="search-4" class="searchbox" action="http://publishers.spilgames.com/" method="get" role="search">
+	<input type="text" value="" name="s" placeholder="search..." />
+	<button type="reset" value="Reset"></button>
+</form>
+
+<script src="/wp-content/themes/yoo_nano2_wp/warp/js/search.js"></script>
+<script>
+jQuery(function($) {
+	$('#search-4 input[name=s]').search({'url': 'http://publishers.spilgames.com/wp-admin/admin-ajax.php?action=warp_search', 'param': 's', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found'}).placeholder();
+});
+</script></div>
+				
+				
+						
+		</div>
+
+	</div></div>
+	
+
+	<div id="block-header"><div class="wrapper">
+
+		<header id="header" class="clearfix">
+
+			
+			
+						<nav id="menu"><ul class="menu menu-dropdown"><li class="level1 item25 active current"><a href="/" class="level1 active current"><span>Home</span></a></li><li class="level1 item17647"><a href="http://publishers.spilgames.com/games/" class="level1"><span>Game Catalog</span></a></li><li class="level1 item17047"><a href="http://publishers.spilgames.com/frame-builder/" class="level1"><span>Frame Builder</span></a></li><li class="level1 item17048"><a href="http://publishers.spilgames.com/rss-builder/" class="level1"><span>RSS Builder</span></a></li></ul></nav>
+					
+					
+		</header>
+
+	</div></div>
+
+	<div id="block-main"><div class="wrapper">
+
+				
+				
+				<div id="main" class="grid-block">
+
+			<div id="maininner" class="grid-box">
+				<div id="text-13">			<div class="textwidget"><!--<style type="text/css">
+.advertisementDiv {
+position: absolute;
+left: 100%;
+border-left: 1px solid #7c2d66;
+padding-left: 25px;
+}
+
+#maininner {
+position: relative !important;
+}
+</style>
+<div class="advertisementDiv">-->
+<!--
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Skyscraper -->
+<!--
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:600px"
+     data-ad-client="ca-pub-0561465603117169"
+     data-ad-slot="5951586111"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
+</div>--></div>
+		</div>				
+				
+								<section id="content" class="grid-block"><div  class='grid-block'><h3 class='page_title'>Featured Games</h3>		<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/operate-now-knee-surgery/" rel="bookmark" title="Permanent Link to Operate Now: Knee Surgery">
+		 			Operate Now: Knee Surgery		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/8/1/155381.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/blym/" rel="bookmark" title="Permanent Link to Blym">
+		 			Blym		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/0/0/155300.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/snail-bob4/" rel="bookmark" title="Permanent Link to Snail Bob 4">
+		 			Snail Bob 4		 					 			<img class="gameItemImage" src="http://www.agame.com/thumbnails/200X120/6/2/153962.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/fireboy-watergirl-4-crystal-temple/" rel="bookmark" title="Permanent Link to Fireboy &amp; Watergirl 4: Crystal Temple">
+		 			Fireboy &#038; Watergirl 4: Crystal T		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/3/9/153939.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+	</div><div  class='grid-block'><h3 class='page_title'>HTML5 Games</h3>		<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/cupcake-jive/" rel="bookmark" title="Permanent Link to Cupcake Jive">
+		 			Cupcake Jive		 					 			<img class="gameItemImage" src="http://static1.spilcdn.com/swift/v1/AUTH_83051f68-ec6c-44e0-afe5-bd8902acff57/images/1381483416.03_Cupcake_200x120.jpeg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/drive-jive/" rel="bookmark" title="Permanent Link to Drive Jive">
+		 			Drive Jive		 					 			<img class="gameItemImage" src="http://static2.spilcdn.com/swift/v1/AUTH_83051f68-ec6c-44e0-afe5-bd8902acff57/images/1381483482.5_DriveJive_200x120.jpeg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/jewel-jive/" rel="bookmark" title="Permanent Link to Jewel Jive">
+		 			Jewel Jive		 					 			<img class="gameItemImage" src="http://static1.spilcdn.com/swift/v1/AUTH_83051f68-ec6c-44e0-afe5-bd8902acff57/images/1381483529.83_jeweljive_200x120.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/paws-to-beauty-3/" rel="bookmark" title="Permanent Link to Paws to Beauty">
+		 			Paws to Beauty		 					 			<img class="gameItemImage" src="http://static2.spilcdn.com/swift/v1/AUTH_83051f68-ec6c-44e0-afe5-bd8902acff57/images/1381483576.91_paws_to_beauty_200x120.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+	</div><div  class='grid-block'><h3 class='page_title'>Latest Games</h3>		<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/dangerous-invention/" rel="bookmark" title="Permanent Link to Dangerous Invention">
+		 			Dangerous Invention		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/7/9/155479.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/school-buddies/" rel="bookmark" title="Permanent Link to School Buddies">
+		 			School Buddies		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/9/0/155490.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/walnut-fudge-saras-cooking-class/" rel="bookmark" title="Permanent Link to Walnut Fudge: Sara&#8217;s Cooking Class">
+		 			Walnut Fudge: Sara&#8217;s Cooking Cl		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/9/1/155491.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/sports-academy/" rel="bookmark" title="Permanent Link to Sports Academy">
+		 			Sports Academy		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/8/9/155489.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/sugarspin-cutie/" rel="bookmark" title="Permanent Link to Sugarspin Cutie">
+		 			Sugarspin Cutie		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/7/8/155478.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/hatsune-miku-dress-up-2/" rel="bookmark" title="Permanent Link to Hatsune Miku Dress Up">
+		 			Hatsune Miku Dress Up		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/7/7/155477.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/freecell-solitaire/" rel="bookmark" title="Permanent Link to Freecell Solitaire">
+		 			Freecell Solitaire		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/5/6/155056.gif">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/bomb-it-kart-racer/" rel="bookmark" title="Permanent Link to Bomb It Kart Racer">
+		 			Bomb It Kart Racer		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/9/7/155497.gif">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/cutie-student-dress-up/" rel="bookmark" title="Permanent Link to Cutie Student Dress Up">
+		 			Cutie Student Dress Up		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/7/5/155475.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/my-beauty-spa-panic/" rel="bookmark" title="Permanent Link to My Beauty Spa Panic">
+		 			My Beauty Spa Panic		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/7/4/155474.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/kung-pao-chicken-saras-cooking-class/" rel="bookmark" title="Permanent Link to Kung Pao Chicken: Sara&#8217;s Cooking Class">
+		 			Kung Pao Chicken: Sara&#8217;s Cookin		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/5/5/155455.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+			<div class="post grid-box width25 grid-h">
+			<!-- Display the Title as a link to the Post's permalink. -->
+			<div class="module mod-box mod-box-black mod-box-header deepest height200">
+				
+		 		<a href="http://publishers.spilgames.com/games/princess-tutu/" rel="bookmark" title="Permanent Link to Princess Tutu">
+		 			Princess Tutu		 					 			<img class="gameItemImage" src="http://publishers.spilgames.com/thumbnails/200X120/5/1/155451.jpg">
+		 		</a>	
+		 			<div class="icons">
+					<!--	<a class="gamepage white" href="">Go To Game</a>-->
+					</div>
+		 			
+			  	
+		    
+		  </div>
+		</div> <!-- closes the first div box -->
+	</div><div class='moreGamesContain'><a class='moreGames' href='/games/'>More Games</a></div></section>
+				
+				
+			</div>
+			<!-- maininner end -->
+			
+						
+						<aside id="sidebar-b" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+		<h3 class="module-title"></h3>	<div class="suggestBox">
+<a href="https://twitter.com/SpilPublisher" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @SpilPublisher</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+		<h3 class="module-title"><span class="color">Questions</span> or Suggestions</h3>	<div class="suggestBox">
+Mail us:
+<a href="mailto:publisher@spilgames.com" onClick="_gaq.push(['_trackEvent', 'Mail and Suggest', 'Click for mail form', 'Sidebar Widget']);">
+publisher@spilgames.com
+</a>
+</div>		
+</div></div><div class="grid-box width100 grid-v"><div class="module mod-line  deepest">
+
+			<div id="lct-widget-game-category-container" class="list-custom-taxonomy-widget"><ul id="lct-widget-game-category">	<li class="cat-item cat-item-43"><a href="http://publishers.spilgames.com/game-category/girls-games/" title="View all posts filed under Girls Games">Girls Games</a> (470)
+</li>
+	<li class="cat-item cat-item-44"><a href="http://publishers.spilgames.com/game-category/dress-up-games/" title="View all posts filed under Dress Up Games">Dress Up Games</a> (356)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://publishers.spilgames.com/game-category/skill-games/" title="View all posts filed under Skill Games">Skill Games</a> (182)
+</li>
+	<li class="cat-item cat-item-38"><a href="http://publishers.spilgames.com/game-category/puzzle-games/" title="View all posts filed under Puzzle Games">Puzzle Games</a> (177)
+</li>
+	<li class="cat-item cat-item-48"><a href="http://publishers.spilgames.com/game-category/make-over-games/" title="View all posts filed under Make Over Games">Make Over Games</a> (154)
+</li>
+	<li class="cat-item cat-item-42"><a href="http://publishers.spilgames.com/game-category/adventure-games/" title="View all posts filed under Adventure Games">Adventure Games</a> (115)
+</li>
+	<li class="cat-item cat-item-40"><a href="http://publishers.spilgames.com/game-category/action-games/" title="View all posts filed under Action Games">Action Games</a> (114)
+</li>
+	<li class="cat-item cat-item-55"><a href="http://publishers.spilgames.com/game-category/fun-games/" title="View all posts filed under Fun Games">Fun Games</a> (109)
+</li>
+	<li class="cat-item cat-item-49"><a href="http://publishers.spilgames.com/game-category/make-up-games/" title="View all posts filed under Make Up Games">Make Up Games</a> (102)
+</li>
+	<li class="cat-item cat-item-51"><a href="http://publishers.spilgames.com/game-category/simulation-games/" title="View all posts filed under Simulation Games">Simulation Games</a> (77)
+</li>
+	<li class="cat-item cat-item-59"><a href="http://publishers.spilgames.com/game-category/cooking-games/" title="View all posts filed under Cooking Games">Cooking Games</a> (75)
+</li>
+	<li class="cat-item cat-item-36"><a href="http://publishers.spilgames.com/game-category/racing-games/" title="View all posts filed under Racing Games">Racing Games</a> (67)
+</li>
+	<li class="cat-item cat-item-53"><a href="http://publishers.spilgames.com/game-category/animal-games/" title="View all posts filed under Animal Games">Animal Games</a> (55)
+</li>
+	<li class="cat-item cat-item-46"><a href="http://publishers.spilgames.com/game-category/time-management/" title="View all posts filed under Time Management">Time Management</a> (40)
+</li>
+	<li class="cat-item cat-item-52"><a href="http://publishers.spilgames.com/game-category/celebrity-games/" title="View all posts filed under Celebrity Games">Celebrity Games</a> (39)
+</li>
+	<li class="cat-item cat-item-41"><a href="http://publishers.spilgames.com/game-category/physics-games/" title="View all posts filed under Physics Games">Physics Games</a> (33)
+</li>
+	<li class="cat-item cat-item-45"><a href="http://publishers.spilgames.com/game-category/sports-games/" title="View all posts filed under Sports Games">Sports Games</a> (26)
+</li>
+	<li class="cat-item cat-item-39"><a href="http://publishers.spilgames.com/game-category/hidden-objects/" title="View all posts filed under Hidden Objects">Hidden Objects</a> (22)
+</li>
+	<li class="cat-item cat-item-56"><a href="http://publishers.spilgames.com/game-category/shooting-games/" title="View all posts filed under Shooting Games">Shooting Games</a> (20)
+</li>
+	<li class="cat-item cat-item-47"><a href="http://publishers.spilgames.com/game-category/uphill-racing/" title="View all posts filed under Uphill Racing">Uphill Racing</a> (11)
+</li>
+	<li class="cat-item cat-item-57"><a href="http://publishers.spilgames.com/game-category/mahjong-games/" title="View all posts filed under Mahjong Games">Mahjong Games</a> (11)
+</li>
+	<li class="cat-item cat-item-54"><a href="http://publishers.spilgames.com/game-category/board-card-games/" title="View all posts filed under Board &amp; Card Games">Board &amp; Card Games</a> (9)
+</li>
+	<li class="cat-item cat-item-58"><a href="http://publishers.spilgames.com/game-category/tower-defense/" title="View all posts filed under Tower Defense">Tower Defense</a> (6)
+</li>
+	<li class="cat-item cat-item-50"><a href="http://publishers.spilgames.com/game-category/bubble-shooter/" title="View all posts filed under Bubble Shooter">Bubble Shooter</a> (5)
+</li>
+	<li class="cat-item cat-item-62"><a href="http://publishers.spilgames.com/game-category/match-3-games/" title="View all posts filed under Match-3 Games">Match-3 Games</a> (5)
+</li>
+	<li class="cat-item cat-item-82"><a href="http://publishers.spilgames.com/game-category/html5-games/" title="View all posts filed under HTML5 Games">HTML5 Games</a> (4)
+</li>
+	<li class="cat-item cat-item-61"><a href="http://publishers.spilgames.com/game-category/sudoku-games/" title="View all posts filed under Sudoku Games">Sudoku Games</a> (1)
+</li>
+</ul></div>		
+</div></div></aside>
+			
+		</div>
+				<!-- main end -->
+
+				
+	</div></div>
+
+	
+		<div id="block-footer"><div class="wrapper">
+
+		<footer id="footer">
+
+						<a id="totop-scroller" href="#page"></a>
+			
+			
+		</footer>
+		
+	</div></div>
+		
+		
+</body>
+</html>

@@ -1,0 +1,15 @@
+.tooltipBOX_HORIZON {
+ float:left;
+ width: 200px;
+ padding:0;
+ background-color:#000000;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -khtml-border-radius: 5px;
+  border-radius: 5px;
+  color: #c2c2c2;
+  line-height: 16px;
+  font: 11px arial;
+  
+  text-align:center;
+}

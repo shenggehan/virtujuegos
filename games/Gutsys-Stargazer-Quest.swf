@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>The Smurfs - Gutsy's Stargazer Quest</title>
+
+	<meta name="keywords" content="The Smurfs, The Smurfs Movie, Smurfs, Gargamel, Hank Azaria, Neil Patrick Harris, George Lopez, Family Comedy, Schtroumpf" />
+    <meta property="og:title" content="Gutsy's Stargazer Quest"/>
+    <meta property="og:type" content="movie"/>
+    <meta property="og:url" content="http://www.spel.se/spel_/gutsys-stargazer-quest.html"/>
+    <meta property="og:image" content="http://www8.agame.com/mirror/flash/s/Smurfs/games_sweden/games_sweden/gutsysmurf/"/>
+    <meta property="og:site_name" content="Gutsy"/>
+    <meta property="og:description" content="Click to play the game."/>	
+
+    <link rel="image_src" href="http://www.musicbay.se/qmail/spe/smurfs/games/gutsy/images/gutsy_share.jpg" />
+	<link rel="stylesheet" type="text/css" href="styles/main.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="styles/jqModal.css" media="screen" />
+	<link rel="image_src" href="images/gutsy_share.jpg" />
+	<link rel="stylesheet" type="text/css" href="styles/main.css" />
+	<script type="text/javascript" src="scripts/common.js"></script>
+	<script type="text/javascript" src="scripts/swfobject2.js"></script>
+	<script type="text/javascript" src="scripts/corefunctions.js"></script>
+    
+</head>
+<body style="margin: 0; padding: 0">
+<div id="gamecontainer">
+	<div id="flashcontent">
+		<h1>The Smurfs - Gutsy's Stargazer Quest</h1>
+		<p>Gutsy needs your help in this online game. Play now. Then catch him in 3D in The Smurfs movie coming to theaters.</p>
+		<p>
+			To view this content, JavaScript must be enabled, and you need the latest version of the Adobe Flash Player.
+			<a href="http://www.adobe.com/go/getflashplayer" rel="external">Get the free Adobe Flash Player.</a>
+		</p>
+	</div>
+	<div id="footer">
+		<ul id="logos">
+			<li class="spa"><img src="images/logo-spa.png" alt="Sony Pictures Animation" /></li>
+			<li class="kerner"><img src="images/logo-kerner.png" alt="The Kerner Entertainment Company" /></li>
+			<li class="columbia"><img src="images/logo-columbia.png" alt="Columbia Pictures" /></li>
+			<li class="notrated"><img src="images/logo-spri.png" alt="Sony Pictures Releasing International" /></li>
+		</ul>
+		<div id="copyright">
+			<p>SMURF, and all the Smurfs characters: &copy;Peyo, All Rights Reserved.</p>
+			<p>"Smurf" and "The Smurfs" are registered trademarks of STUDIO PEYO.</p>
+			<p>&copy; 2011 Sony Pictures Digital Inc. All Rights Reserved</p>
+		</div>
+		<div id="legal">
+			<ul id="legal-links">
+				<li><a href="   " rel="external">User Agreement</a></li>
+				<li class="privacy"><a href="   " rel="external">SonyPictures.net</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

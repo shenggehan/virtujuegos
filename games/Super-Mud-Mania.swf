@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en-US" class="gameiframe">
+    <head>
+        <title>Play Super Mud Mania on A10.com</title>
+        <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true,IE=Edge,chrome=1">
+        <meta name="application-name" content="A10.com">
+        <meta name="msapplication-TileColor" content="#004060">
+        <meta name="msapplication-TileImage" content="/templates/games.tv/g/img/logos/a10_logo_2.png?v=13.10.6">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="Content-Language" content="en-US"> 
+        <meta name="viewport" content="minimum-scale=1, width=device-width">
+        <meta name="description" content="What&rsquo;s even crazier than Mud Mania? SUPER Mud Mania! Drivers, start your engines...">
+        <meta name="keywords" content="racing,3d">
+        <meta property="portal:channel:id" content="4"/>
+        <meta property="portal:site:id" content="121"/>
+        <meta property="portal:page:type" content="gameiframe"/>
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="A10.com">
+        <meta property="og:description" content="What&rsquo;s even crazier than Mud Mania? SUPER Mud Mania! Drivers, start your engines...">
+        <meta property="og:title" content="Super Mud Mania">
+        <meta property="og:url" content="http://www.a10.com/racing-games/super-mud-mania">
+        <meta property="og:image" content="http://static1.spilcdn.com/a10/20130517154121supermudmania/20130517154121_Super-Mud-Mania.gif">
+        <link rel="canonical" href="/racing-games/super-mud-mania">
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+        <link rel="shortcut icon" href="/templates/games.tv/g/img/favicon.ico?v=13.10.6" type="image/x-icon">
+        <link rel="icon" href="/templates/games.tv/g/img/favicon.ico?v=13.10.6" type="image/x-icon">
+        <link rel="publisher" href="http://plus.google.com/u/0/117696218799421370639/">
+        <link rel="dns-prefetch" href="http://www8.agame.com/">
+        <link rel="dns-prefetch" href="http://api.viewar.org/">
+        <link href="/templates/games.tv/g/style-13.10.6.min.css" rel="stylesheet" type="text/css">
+        <link href="/templates/games.tv/css/iframe.css" rel="stylesheet" type="text/css">
+
+        <!-- LogNormal -->
+        <script>(function(){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);a=a.contentWindow.document;a.open().write("<body onload=\"var js = document.createElement('script');js.id = 'boomr-if-as';BOOMR_lstart = new Date().getTime();js.src = '//lognormal.net/boomerang/36acb1320ff4ca6d4cea50e3822189027dff9dc4c7cfafba661d60b0';document.body.appendChild(js);\">");a.close()})();var LOGN=LOGN||{};LOGN.page_group="gameiframe";</script>
+
+        <!-- CDN Test -->
+        <script type="text/javascript" class="keep_this">(function(){var e=window,g=window.document,l={o:{path:"http://origin.cdntest.spilgames.com/test/image-3.png"},c:{path:"http://c.cdntest.spilgames.com/test/image-3.png"},l:{path:"http://level3.cdntest.spilgames.com/test/image-3.png"},ce:{path:"http://cedexis.cdntest.spilgames.com/test/image-3.png"},os:{path:"http://originstatic.cdntest.spilgames.com/test/image-3.png"},hw:{path:"http://hw.cdntest.spilgames.com/test/image-3.png"},cacc:{path:"http://c-acc.cdntest.spilgames.com/test/image-3.png"},o2:{path:"http://origin.cdntest.spilgames.com/test/image-4.png"}, c2:{path:"http://c.cdntest.spilgames.com/test/image-4.png"},l2:{path:"http://level3.cdntest.spilgames.com/test/image-4.png"},ce2:{path:"http://cedexis.cdntest.spilgames.com/test/image-4.png"},os2:{path:"http://originstatic.cdntest.spilgames.com/test/image-4.png"},hw2:{path:"http://hw.cdntest.spilgames.com/test/image-4.png"},cacc2:{path:"http://c-acc.cdntest.spilgames.com/test/image-4.png"}},m=0,n=0,p=!1; function q(){var b=(new Date).getTime();e.performance&&(e.performance.now?b=e.performance.now():e.performance.webkitNow&&(b=e.performance.webkitNow()));return b} function s(b,f){n+=1;l[f].a=b;l[f].timing=q()-l[f].b;if(m===n&&!p){var a=new Image,h="",d,j=1;for(d in l)l.hasOwnProperty(d)&&(h+=d+","+(l[d].a?1:0)+(m!==j?"|":""),j+=1);d="";var c,j=1;for(c in l)l.hasOwnProperty(c)&&(d+=c+","+Math.round(l[c].timing)+(m!==j?"|":""),j+=1);a.src="/lg/pb/1/cdn?p="+d+"&a="+h+"&buster="+q();a=new Date;a.setTime(a.getTime()+3E5);g.cookie="_cdnsTested= ; expires="+a.toGMTString()+"; path=/"}} function t(){var b;a:{b=g.cookie.split(";");var f,a;for(f=0;f<b.length;f+=1){for(a=b[f];" "===a.charAt(0);)a=a.substring(1,a.length);if(0===a.indexOf("_cdnsTested=")){b=unescape(a.substring(12,a.length));break a}}b=null}if(null===b){var h,d;b=function(){s.call(this,!0,this.title)};f=function(){s.call(this,!1,this.title)};a=l;var j={},c,k=[];for(c in a)a.hasOwnProperty(c)&&k.push(c);c=k;for(var r,v,k=c.length-1;0<k;k-=1)r=Math.floor(Math.random()*(k+1)),v=c[k],c[k]=c[r],c[r]=v;for(d in c)c.hasOwnProperty(d)&& (j[c[d]]=a[c[d]]);l=j;for(h in l)l.hasOwnProperty(h)&&(m+=1);for(h in l)l.hasOwnProperty(h)&&(d=l[h],a=new Image,a.title=h,a.src=d.path+"",d.b=q(),a.complete?(a.d=!0,s.call(a,!0,a.title)):(a.onload=b,a.onerror=f),d.f=a)}}var u,w;e.addEventListener?w=function(b,f,a){a.addEventListener(b,f,!1)}:e.attachEvent&&(w=function(b,f,a){a.attachEvent("on"+b,f)});u=w;function x(){p=!0}u("load",function(){e.setTimeout(t,3E4)},e);u("beforeunload",x,e);u("unload",x,e);})();</script> 
+    </head>
+    <body>
+        <div class="background-layer">
+<div class="gamewindow" style="width: 800px; height: 450px;"><table class="proll-adwindow">  <tr valign="top">    <td colspan="3">      <div class="proll-loader-ad-info"><h2>AD ENDS IN <b id="loader-ad-timer">13</b> </h2></div>    </td>  </tr>  <tr valign="middle">    <td width="50%"></td>    <td class="proll-adcontainer">             <div class="proll-adcontent"></div>    </td>    <td width="50%"></td>  </tr>  <tr valign="bottom">    <td colspan="3">      <div class="proll-skip-ad-info"><h2><img src="/templates/games.tv/images/preloader_gif.gif"></h2></div>    </td>  </tr></table><div class="gamesize" style="display:none;width:800px;height:450px;"></div><div class="gamecontainer scale" style="width:800px;height:450px;">
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="flashLoader" style="display:none">
+            <param name="movie" value="http://www8.agame.com/a10/loader/gamepreloader.swf?v=13-04-12-03" /><param name="FlashVars" value="c=4&amp;s=121&amp;id=154168&amp;title=Super+Mud+Mania&amp;url=http%3A%2F%2Fwww8.agame.com%2Fmirror%2Funity%2FSuper_mud_mania%2FGame.swf%3Floader&amp;ads=0" /><param name="wmode" value="transparent" /><param name="allowScriptAccess" value="always" />
+<!--[if !IE]>-->
+            <object type="application/x-shockwave-flash" data="http://www8.agame.com/a10/loader/gamepreloader.swf?v=13-04-12-03" width="100%" height="100%"><param name="FlashVars" value="c=4&amp;s=121&amp;id=154168&amp;title=Super+Mud+Mania&amp;url=http%3A%2F%2Fwww8.agame.com%2Fmirror%2Funity%2FSuper_mud_mania%2FGame.swf%3Floader&amp;ads=0" /><param name="wmode" value="transparent" /><param name="allowScriptAccess" value="always" />
+            </object>
+<!--<![endif]-->
+        </object>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height="100%" id="flashGame">
+        <param name="movie" value="http://www8.agame.com/mirror/unity/Super_mud_mania/Game.swf" /><param name="FlashVars" value="c=4&amp;siteId=121&amp;s=121&amp;itemId=154168&amp;id=154168" /><param name="wmode" value="direct" /><param name="base" value="http://www8.agame.com/mirror/unity/Super_mud_mania/" /><param name="allowScriptAccess" value="sameDomain" />
+<!--[if !IE]>-->
+        <object type="application/x-shockwave-flash" data="http://www8.agame.com/mirror/unity/Super_mud_mania/Game.swf" width="100%" height="100%"><param name="FlashVars" value="c=4&amp;siteId=121&amp;s=121&amp;itemId=154168&amp;id=154168" /><param name="wmode" value="direct" /><param name="base" value="http://www8.agame.com/mirror/unity/Super_mud_mania/" /><param name="allowScriptAccess" value="sameDomain" />
+<!--<![endif]-->
+            <div id="flashMissing">
+                <a href="http://www.adobe.com/go/getflash" target="_blank">
+                    <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+                    <p>This game requires Adobe Flash Player.</p>
+                </a>
+            </div>
+<!--[if !IE]>-->
+        </object>
+<!--<![endif]-->
+    </object></div></div>
+        </div>
+        <script src="/templates/games.tv/js/head.load-13.10.6.min.js"></script>
+        <script>
+            var templatePath = "\/templates\/games.tv\/",
+                SpilGames = function(a){return function(){a.push(arguments);return a}}(SpilGames||[]),
+                Portal = Portal||{},
+                jsApiPath = templatePath + "js\/api-13.10.6.min.js",
+                jsAdFrontPath = "http:\/\/static1.spilcdn.com\/vda\/pb\/1\/4\/121?locale=en-US&pageType=gameiframe",
+                fbAppId = "273973666069004",
+                gaAccount = "UA-25553061-1",
+                pageSearch = "",
+                pageSortby = "popular",
+                pagePending = false,
+                pageZoomOn = true,
+                pageZoomed = false,
+                viewarPixel,
+                adReserve = 75,
+                apiLevel = 0;
+            head.js(
+                templatePath + "js\/jquery-1.8.3.min.js",
+                templatePath + "js\/all-13.10.6.min.js",
+                templatePath + "js\/game-13.10.6.min.js",
+                function () {
+                    trackPage("gameiframe", null, 154168, "", "oldskool-13.10.6");
+                    resizeMe();
+                    captionsInit();
+                    focusInit();
+                    pagesInit();
+                    fbInit();
+                    if ($.browser.msie && parseInt($.browser.version, 10) < 9) {
+                        head.js(
+                            templatePath + "js\/polyfills-13.10.6.min.js",
+                            function () {
+                                $(document).ajaxComplete(function() {
+                                    selectivizr();
+                                });
+                                selectivizr();
+                            }
+                        );
+                    }
+$.ajax({url: "/xhr/similargames/1026", context: document.body, success: function(data) { $(function() { loadSimilar(data,{"sponsored_by":"Sponsored by","you_may_also_like":"You may also like"},false) }); }, type: "POST"});
+setCookiePrefs('a10_preferred',1026);
+SpilGames(function() { this.set('contentarid', 154168); });
+viewarPixel = new Image(); viewarPixel.src = "http://api.viewar.org/vw/pb/1/add/121/1/154168/1";
+updateTimeSpent(1026);
+startCountdown("a10_ads", "<script type=\"text\/javascript\"><!--\r\ngoogle_ad_client = \"ca-games-pub-1838229837281646\"; \/\/ Your AdSense for Games Client ID.\r\ngoogle_ad_width = 336;\r\ngoogle_ad_height = 280;\r\ngoogle_ad_format = \"336x280_as\";\r\ngoogle_ad_type = \"text_image\";\r\ngoogle_ad_channel = \"1861683020\"; \/\/ Channel IDs.\r\ngoogle_color_border = \"C8D8DF\"; \/\/ Hex codes for colors.\r\ngoogle_color_bg = \"E4ECF0\";\r\ngoogle_color_link = \"174255\";\r\ngoogle_color_text = \"000000\";\r\ngoogle_color_url = \"FFF588\";\r\ngoogle_font_size = \"account_default\";\r\n\/\/-->\r\n<\/script>\r\n<script type=\"text\/javascript\"\r\n  src=\"http:\/\/pagead2.googlesyndication.com\/pagead\/show_ads.js\">\r\n<\/script>", 0, 100, 5, "PLAY NOW", "flash");
+loaderInit(4, 121, 154168);
+                }
+            );
+        </script>
+        <div id="fb-root"></div>
+
+        <!-- JSLib -->
+        <script type="text/javascript">
+            (function (document) {
+                var apiScript = document.createElement('script'),
+                firstScript = document.getElementsByTagName('script')[0];
+                apiScript.src = "\/\/api.spilgames.com\/js\/3.6.13\/spapi?siteid=121&channelid=4";
+                apiScript.async = !0;
+                apiScript.type = 'text/javascript';
+                firstScript.parentNode.insertBefore(apiScript, firstScript);
+            }(window.document));
+        </script>
+
+        <!-- Google Code for Homepage Visit Remarketing List -->
+        <script>
+            var google_conversion_id = 1030579119,
+                google_conversion_language = "en",
+                google_conversion_format = "3",
+                google_conversion_color = "666666",
+                google_conversion_label = "i9BHCMfynwIQr8e16wM",
+                google_conversion_value = 0;
+        </script>
+        <script src="http://www.googleadservices.com/pagead/conversion.js"></script>
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1030579119/?label=i9BHCMfynwIQr8e16wM&amp;guid=ON&amp;script=0">
+            </div>
+        </noscript>
+
+        <!-- CDN Test -->
+        <script type="text/javascript" class="keep_this">(function(a,c){var d=function(){var b=c.createElement("script");b.type="text/javascript";b.async="async";b.src="//"+("https:"===a.location.protocol?"s3.amazonaws.com/cdx-radar/":"radar.cedexis.com/")+"01-10281-radar10.min.js";c.body.appendChild(b)};a.addEventListener?a.addEventListener("load",d,!1):a.attachEvent&&a.attachEvent("onload",d)})(window,document);</script>
+    </body>
+</html>

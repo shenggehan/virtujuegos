@@ -1,0 +1,1 @@
+<img src="http://virtujuegos.net/templates/macaw/728x30.png" alt="" />

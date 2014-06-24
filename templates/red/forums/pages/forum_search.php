@@ -1,0 +1,31 @@
+<?php include '.'.$setting['template_url'].'/pages/header.php';?>
+<div class="breadcrumbs"><?php include 'includes/modules/breadcrumbs.inc.php'; // Breadcrumb navigation ?></div>
+<h1><?php echo FORUM_SEARCH;?></h1>
+
+<div class="search_options">
+	<?php include 'avforums/core/search/search_form.php'; // The main search form ?>
+</div>
+
+<?php if (isset($_GET['q'])) { ?>
+<div class="forum_container">
+<div class="forum_options">
+	<?php if ($user['admin'] == 1) { ?>
+	<div class="select_all_checkbox">
+		<input type="checkbox" name="select_all" />
+	</div>	
+	<?php } ?>
+</div>
+	<div id="forum_main">
+		<?php include 'avforums/core/search/search.php'; // The main search results ?>
+	</div>
+	<?php include 'avforums/core/forum/new_topic_editor.inc.php'; // The editor for managing topics ?>
+</div>
+<?php } ?>
+
+<div class="topic_bottom">
+	<div class="topic_pages_container">
+		<?php echo PAGE;?>: <?php include 'avforums/core/search/search_pages.inc.php'; // Pagination ?>
+	</div>
+</div>
+
+<?php include '.'.$setting['template_url'].'/pages/footer.php';?>

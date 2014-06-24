@@ -1,0 +1,260 @@
+.mbbc ul, .mbbc li {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+.mbbc .mbbc-buttons ul {
+	padding: 7px 0 7px 0;
+}
+.mbbc .mbbc-buttons li {
+	background-image: url(mensobbcode.gif);
+	background-repeat: no-repeat;
+	background-position:-88px -25px;
+	width: 25px;
+	height: 23px;
+	overflow: hidden;
+	display: inline;
+	padding: 2px 10px;
+	margin: 2px;
+	cursor: pointer;
+	font: 16px Tahoma;
+	border: 1px solid #bdbdbd;
+}
+.mbbc .mbbc-buttons li:hover {
+	-moz-box-shadow: 0px 0px 3px #999;
+	-webkit-box-shadow: 0px 0px 3px #999;
+	border-color: #999;
+}
+
+
+.mbbc li.mbbc-b,
+.mbbc li.mbbc-simple {
+	background-position: 0px 0px;	
+	margin-left: 5px;
+}
+.mbbc li.mbbc-i {
+	background-position: -1px -25px;
+}
+.mbbc li.mbbc-u {
+	background-position: 0px -51px;
+}
+.mbbc li.mbbc-font {
+	background-position: 0px -76px;
+}
+.mbbc li.mbbc-size {
+	background-position: -1px -103px;
+}
+.mbbc li.mbbc-color {
+	background-position: -1px -130px;
+}
+.mbbc li.mbbc-img {
+	background-position: -30px -130px;
+}
+.mbbc li.mbbc-url {
+	background-position: -30px 0px;
+}
+.mbbc li.mbbc-list {
+	background-position: -30px -25px;
+}
+.mbbc li.mbbc-align {
+	background-position: -30px -51px;
+}
+.mbbc li.mbbc-quote {
+	background-position: -30px -77px;
+}
+.mbbc li.mbbc-code {
+	background-position:-59px -77px;
+}
+.mbbc li.mbbc-table {
+	background-position:-59px -103px;
+}
+.mbbc li.mbbc-emoticon {
+	background-position: -59px -1px;
+}
+.mbbc li.mbbc-removeFormat {
+	background-position: -31px -103px;
+}
+.mbbc li.mbbc-removeUrl {
+	background-position: -59px -25px;
+}
+.mbbc li.mbbc-removeTable {
+	background-position: -59px -130px;
+}
+.mbbc li.mbbc-clearContent {
+	background-position: -59px -51px
+}
+.mbbc li.mbbc-youtube {
+	background-position: -88px 0px
+}
+.mbbc li.mbbc-s {
+	background-position: -88px -51px
+}
+.mbbc li.mbbc-hr {
+	background-position: -88px -77px
+}
+
+.mbbc .mbbc-font-popup,
+.mbbc .mbbc-size-popup,
+.mbbc .mbbc-list-popup,
+.mbbc .mbbc-align-popup,
+.mbbc .mbbc-color-popup,
+.mbbc .mbbc-emoticon-popup,
+.mbbc .mbbc-url-popup,
+.mbbc .mbbc-img-popup,
+.mbbc .mbbc-simple-popup,
+.mbbc .mbbc-table-popup,
+.mbbc .mbbc-code-popup {
+	background: #EEEEEE;
+	border: 1px solid #F7F7F7;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0px 0px 2px #909090;
+	-webkit-box-shadow: 0px 0px 2px #909090;
+	_border: 1px solid #DEDEDE;
+	position: fixed;
+    margin-top: 35px;
+    margin-left: 100px;
+}
+.mbbc .mbbc-size-popup {
+	margin-left: 120px;
+}
+.mbbc .mbbc-align-popup {
+	margin-left: 270px;
+}
+.mbbc .mbbc-list-popup {
+	margin-left: 240px;
+}
+.mbbc .mbbc-emoticon-popup {
+	margin-left: 300px;
+}
+.mbbc .mbbc-color-popup {
+	padding: 5px 7px;
+	_padding: 10px 0px;
+}
+.mbbc .mbbc-color-popup input {
+	border: none;
+	width: 15px;
+	height: 15px;
+	margin: 2px;
+	cursor: pointer;
+}
+.mbbc .mbbc-popups .mbbc-size-popup li {
+	line-height: .9em;
+}
+
+.mbbc .mbbc-img-popup,
+.mbbc .mbbc-url-popup,
+.mbbc .mbbc-table-popup {
+	padding: 5px 10px; 
+}
+.mbbc .mbbc-img-popup label,
+.mbbc .mbbc-url-popup label,
+.mbbc .mbbc-table-popup label {
+	font: bolder 12px/1.5em Verdana;
+	color: #5A5A5A;
+	padding: 2px 0px 2px 1px;
+}
+.mbbc .mbbc-img-popup input,
+.mbbc .mbbc-url-popup input,
+.mbbc .mbbc-table-popup input {
+	padding: 2px;
+	font: 12px;
+}
+.mbbc .mbbc-popups .mbbc-input-insert,
+.mbbc .mbbc-popups .mbbc-input-cancel {
+}
+
+.mbbc .mbbc-table-popup label {
+	float: left;
+	display: block;
+	width: 120px;
+}
+.mbbc .mbbc-table-popup li {
+	margin-bottom: 5px;
+}
+.mbbc .mbbc-table-popup input.mbbc-input-data {
+	width: 50px;
+}
+.mbbc .mbbc-table-popup .mbbc-table-checkbox label {
+	float: none;
+	width: auto;
+}
+.mbbc .mbbc-table-popup .mbbc-table-checkbox input {
+	width: 10px;
+}
+
+.mbbc .mbbc-font-popup li,
+.mbbc .mbbc-simple-popup li,
+.mbbc .mbbc-size-popup li,
+.mbbc .mbbc-list-popup li,
+.mbbc .mbbc-align-popup li,
+.mbbc .mbbc-code-popup li {
+	cursor: pointer;
+	font: 500 12px/1.5em Verdana;
+	padding: 3px 7px;
+	color: #000;
+}
+.mbbc .mbbc-font-popup li:hover,
+.mbbc .mbbc-simple-popup li:hover,
+.mbbc .mbbc-size-popup li:hover,
+.mbbc .mbbc-list-popup li:hover,
+.mbbc .mbbc-align-popup li:hover,
+.mbbc .mbbc-code-popup li:hover {
+	color: #fff;
+	background-color: #9ECBF4;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.mbbc .mbbc-emoticon-popup {
+	padding: 5px 8px;
+	_border: 1px solid #DEDEDE;
+}
+.mbbc .mbbc-emoticon-popup .mbbc-group ul {
+	border: none;
+	border-bottom: 1px solid #DEDEDE;
+	padding: 5px 0px 5px 7px;
+}
+.mbbc .mbbc-emoticon-popup .mbbc-group li {
+	display: inline;
+	padding: 8px 8px;
+	-moz-border-radius-topleft: 5px;
+	-webkit-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-webkit-border-radius-topright: 5px;
+	font: 900 12px/1.7em Verdana, Trebuchet MS, Candara;
+	color: #B7B7B7;
+	border: 1px solid #DEDEDE;
+	margin:0 5px 0 0;
+}
+.mbbc .mbbc-emoticon-popup .mbbc-group li.mbbc-current {
+	border-bottom: 1px solid #EEEEEE;
+	color: #5A5A5A;
+}
+.mbbc .mbbc-emoticon-popup .mbbc-group {
+	_margin: -18px 0px;
+}
+.mbbc .mbbc-emoticon-popup .mbbc-container {
+	padding: 5px 2px;
+}
+.mbbc .mbbc-emoticon-popup .mbbc-container img {
+	margin: 2px;
+	width: 18px;
+	cursor: pointer;
+}
+
+.mbbc .mbbc-editor {
+	width: 98%;
+	height: 150px;
+	padding: 5px;
+	font: 15px/1.2em Trebuchet MS, Tahoma, Arial;
+	border: 1px solid #ccc;
+	border-top: 1px solid #e0e0e0;
+}
+.sig_editor .mbbc .mbbc-editor {
+	height: 100px;
+	width: 500px;
+}
+.mbbc .mbbc-editor:focus {
+	outline: none;
+}

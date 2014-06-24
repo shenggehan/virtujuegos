@@ -1,0 +1,1 @@
+<?php echo '<a href="'.$game['url'].'"><img src="'.$game['image_url'].'" width="60" height="60" alt="'.$game['name'].'" title="'.$game['name'].'" /></a> '; ?>
