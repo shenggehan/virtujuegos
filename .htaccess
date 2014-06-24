@@ -1,0 +1,57 @@
+DirectoryIndex index.php
+
+RewriteEngine on
+
+RewriteRule ^cat/([0-9]+)?/([^/\.]+)/p([0-9]+) index.php?task=category&id=$1&name=$2&page=$3 [L]
+RewriteRule ^cat/([0-9]+)?/([^/\.]+)/([0-9a-zA-Z?-]+)/p([0-9]+) index.php?task=category&id=$1&name=$2&sortby=$3&page=$4 [L]
+
+RewriteRule ^cat/([0-9]+)?/([^/\.]+)/([0-9a-zA-Z?-]+)-([0-9]+) index.php?task=category&id=$1&sortby=$3&page=$4 [L]
+
+RewriteRule ^cat/([0-9]+)?/([^/\.]+) index.php?task=category&id=$1&name=$2 [L]
+RewriteRule ^tag/([^/\.]+)/([0-9a-zA-Z?-]+)/([0-9]+) index.php?task=tag&t=$1&sortby=$2&page=$3 [L]
+RewriteRule ^tag/([^/\.]+) index.php?task=tag&t=$1 [L]
+RewriteRule ^profile/([0-9]+)?/([^/\.]+) index.php?task=profile&id=$1&name=$2 [L]
+RewriteRule ^profile/comments/([0-9]+)?/([^/\.]+) index.php?task=users_comments&id=$1&name=$2 [L]
+RewriteRule ^page/([0-9]+) index.php?task=view_page&id=$1 [L]  
+RewriteRule ^register index.php?task=register [L] 
+RewriteRule ^lost-password index.php?task=lost_pass [L] 
+RewriteRule ^links index.php?task=links [L]
+RewriteRule ^news/item/([0-9]+)/([^/\.]+) index.php?task=news&id=$1 [L]
+RewriteRule ^news/page([0-9]+) index.php?task=news&page=$1 [L]
+RewriteRule ^members/([^/\.]+)-([^/\.]+)/page([0-9]+)? index.php?task=member_list&sort=$1&order=$2&page=$3 [L]
+RewriteRule ^members index.php?task=member_list [L]
+RewriteRule ^messages index.php?task=messages [L]
+RewriteRule ^submit-game index.php?task=submit [L]
+RewriteRule ^search/([^/\.]+) index.php?task=search&q=$1 [L]
+RewriteRule ^search index.php?task=search [L]
+RewriteRule ^friends index.php?task=friends [L]
+RewriteRule ^submit index.php?task=submit [L]
+
+RewriteRule ^newest-games.rss rss.php [L]
+
+RewriteRule ^r-([0-9]+)?-([0-9]+)? go.php?id=$1&ref=$2 [L]
+RewriteRule ^r-([0-9]+)? go.php?id=$1 [L]
+RewriteRule ^([^/\.]+)/([0-9]+)/([^/\.]+) index.php?task=view&id=$2 [L]
+
+RewriteRule ^news/([^/\.]+) index.php?task=news&name=$1 [L]
+RewriteRule ^profile/([^/\.]+) index.php?task=profile&name=$1 [L]
+RewriteRule ^news index.php?task=news [L]
+RewriteRule ^page/([^/\.]+) index.php?task=view_page&name=$1 [L]  
+
+RewriteRule ^forums/([^/\.]+)/([^/\.]+)/([0-9]+)?-newpost avforums/core/find_post.php?forum_name=$1&name=$2&topic_id=$3 [L]
+RewriteRule ^forums/([^/\.]+)/([^/\.]+)/([0-9]+)?-findpost([0-9]+)? avforums/core/find_post.php?forum_name=$1&name=$2&topic_id=$3&post_id=$4 [L]
+RewriteRule ^forums/([^/\.]+)/([^/\.]+)/([0-9]+) index.php?task=topic&forum_name=$1&name=$2&page=$3 [L]
+RewriteRule ^forums/([^/\.]+)?/([0-9]+) index.php?task=forum&name=$1&page=$2 [L]
+RewriteRule ^forums/([^/\.]+)/([^/\.]+) index.php?task=topic&forum_name=$1&name=$2 [L]
+RewriteRule ^forums/([^/\.]+) index.php?task=forum&name=$1 [L]
+RewriteRule ^forums index.php?task=forums [L] 
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/\.]+)/([0-9a-zA-Z'?-]+)/([0-9]+) index.php?task=category&name=$1&sortby=$2&page=$3 [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/\.]+)/([^/\.]+) index.php?task=view&cat=$1&name=$2 [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/\.]+) index.php?task=category&name=$1 [L]
